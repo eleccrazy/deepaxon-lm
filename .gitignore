@@ -1,4 +1,29 @@
+# Virtual environment
 axon-env/
+venv/
+.env/
+
+# OS and IDE files
+.DS_Store
+*.swp
+*.swo
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+
+# Model checkpoints and outputs
 saved_models/
-data/
 outputs/
+
+# Datasets
+data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Colab uploads/downloads
+*.ipynb.json
