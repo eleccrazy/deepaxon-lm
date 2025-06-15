@@ -1,1 +1,4 @@
 axon-env/
+saved_models/
+data/
+outputs/
